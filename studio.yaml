@@ -1,0 +1,36 @@
+name: mind-studio
+displayName: Mind
+picture: "studio.png"
+
+company: StackSpot
+
+about: Stacks que provêm confiança e velocidade no seu desenvolvimento
+
+technologies: [".NET", "C#", "Api", "OpenAPI", "Splunk", "Prometheus", "Jaeger", "AWS SQS", "AWS DynamoDB", "Docker", "AWS ECS/Fargate"]
+whoWeAre: |
+ Somos desenvolvedores apaixonados por tecnologia e estamos sempre buscando inovar em nossas soluções. Para isso, utilizamos as melhores práticas de desenvolvimento focadas em nossos valores: confiança, qualidade e velocidade.  
+ O estúdio Mind foi idealizado para lançar produtos usando a tecnologia da StackSpot. Ele nasceu com a missão de ajudar desenvolvedores a entregar software com velocidade e confiança, para que o seu negócio consiga entregar mais funcionalidades para os clientes.  
+ Os produtos do estúdio são focados em absorver grande parte da carga cognitiva do código necessário para desenvolver desde uma simples aplicação até grandes sistemas complexos.  
+ 
+creators:
+  - displayName: Maurício Gomes(Alcides)
+    jobRole: Tech Lead
+    provider: github
+    profileURL: "https://github.com/alcidesmauricio"
+    picture: "https://avatars.githubusercontent.com/u/89221304?v=4"
+
+  - displayName: Ricardo Pires
+    jobRole: Software Engineer
+    provider: github
+    profileURL: "https://github.com/ricardojosezup"
+    picture: "https://avatars.githubusercontent.com/u/62444338?v=4"
+
+  - displayName: Lucas Almeida
+    jobRole: Software Engineer
+    provider: github
+    profileURL: "https://github.com/lucas-almeida-zup"
+    picture: "https://avatars.githubusercontent.com/u/90719625?v=4"
+
+stacks:
+  - location: "https://github.com/stack-spot/mind-dotnet-api-stack"
+  - location: "https://github.com/stack-spot/mind-dotnet-worker-stack"
